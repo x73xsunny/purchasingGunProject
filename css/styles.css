@@ -1,0 +1,177 @@
+
+ul li a{
+    color:#ffffff;
+}
+.carousel-item>img{
+width: 100%;
+height: auto;
+}
+.dropdown-item:hover{
+   color: #e8505b; 
+   border: none;
+}
+ul li a:hover{
+    color: #e8505b;
+    border-bottom: 2px solid #e8505b;
+}
+.content-image{
+    height: auto;
+    width: 100%;
+    padding-top: 40px;
+    
+}
+.btn-primary{
+    width: 100%;
+    height: auto;
+    text-align: center;
+
+    padding: 20px;
+    border-radius: 0rem;
+    background-color:#e7515b ;
+    border: none;
+}
+.btn-primary:hover{
+    background-color: #e8505b;
+    transform: scale(0.95);
+}
+#carouselExampleControls{
+    margin-top: 126px;
+}
+.content-container{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.main-content{
+    margin-top: 90px;
+}
+.watch-video{
+    background:url('../images/backgroundimage2.jpg');
+    padding:50px;
+}
+.watch-video-button{
+    background-color:#e7515b ;
+    color:white;
+    margin-left: 70%;
+}
+h1{
+    width: 60%;
+    color: #ffffff;
+    margin-left: 50%;
+    text-align: center;
+}
+p{
+    
+    color: #ffffff;
+    text-align: center;
+    margin-left: 50%;
+    width: 55%;
+    font-weight: bold;
+}
+.catalog{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    
+
+}
+.img-catalog{
+   margin:70px 0px;
+   height: auto;
+   width:100%;
+}
+.catalogo-button{
+    background-color:#e7515b ;
+    color:white;
+    padding: 10px 20px;
+}
+.catalog-background{
+   background-color: rgb(161, 244, 255);
+   height: 100%;
+}
+@media (max-width:968px){
+    div.catalog{
+        padding: 0px 0px;
+    }
+    div.container{
+        text-align: center;
+        align-items: center;
+        align-content: center;
+    }
+    div.payment-icon{
+    padding: 30px 30px 30px 0px;
+    text-align: left;
+    }
+   
+    
+}
+.footer-content{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    margin-top: 120px;
+    padding:40px 0 40px 0;
+   
+}
+
+h4{
+    align-content: left;
+    align-items: left;
+    text-align: left;
+}
+ul{
+    list-style-type: none;
+
+}
+.container-fluid ul li a{
+    text-decoration: none;
+    color:gray;
+  
+}
+.container-fluid ul li a:hover{
+   
+    border-bottom: 0px solid #e8505b;
+}
+
+.list-border:hover{
+    border-bottom: 2px solid #e8505b; ;
+}
+.list-border{
+padding: 5px 0;
+}
+.email-input{
+    border-radius: 0px;
+}
+.btn-default{
+    border-radius: 0px;
+    background-color: black;
+    color: gray;
+}
+button:focus{
+    outline: none;
+}
+.contact-us-content{
+    padding: 10px 0
+}
+.icon{
+    padding:5px;
+    color:#ef8172;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+p{
+    color: gray;
+}
+.bottom-container{
+    margin-top: 30px;
+}
+.bottom-content-left{
+    
+    text-align: left;
+    margin:0;
+    width: auto;
+    font-weight: normal;
+}
+.payment-icon{
+    text-align:right;
+}
